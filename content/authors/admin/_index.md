@@ -68,7 +68,7 @@ education:
   - area: B.Sc. in Computer Engineering
     institution: Michigan State University
     date_start: 2013-09-01
-    date_end: 2027-12-15
+    date_end: 2017-12-15
     # summary: |
     #   GPA: 3.4/4.0
       
@@ -135,12 +135,10 @@ skills:
         icon: camera
 
 languages:
+  - name: Chinese
+    percent: 100
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
