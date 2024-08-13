@@ -37,20 +37,23 @@ profiles:
     url: https://scholar.google.com/citations?user=hnEUxZ4AAAAJ&hl=en
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Deep Learning
+  - Image Retrieval
+  - Image Synthesis
+  - Visual Geo-Localization
+  - 3D Reconstruction
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+  - area: Ph.D. in Computer Science
+    institution: University of Vermont
+    # date_start: 2020-09-01
+    # date_end: 2020-12-31
+    # summary: |
+    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -147,8 +150,11 @@ awards:
   - title: Computer Science Graduate Award
     date: '2023-05-15'
     awarder: The University of Vermont College of Engineering and Mathematical Sciences
+  - title: Second Prize in UVM Computing Student Research Day
+    date: '2022-09-07'
+    awarder: UVM CSRD ’22
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a fourth-year Ph.D. student at the University of Vermont advised by Dr. [Safwan Wshah](https://www.wshahaigroup.com/). My current research interest lies at the border of computer vision and remote sensing (e.g. visual geo-localization and segmentation/detection in aerial images). I am also interested in image synthesis and 3D reconstruction. Before joining the University of Vermont, I received my M.Sc. degree at the University of California, Santa Cruz in 2020, and I obtained my B.Sc. degree at Michigan State University in 2017.
