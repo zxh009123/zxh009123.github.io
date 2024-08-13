@@ -38,7 +38,7 @@ will be available at https://gitlab.com/vail-uvm/geodtr_plus.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Cross-view Image Geo-localization
+- Cross-view Image Geo-localization
 
 # Display this page in the Featured widget?
 featured: true
@@ -76,7 +76,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+slides: example
 ---
 
 {{% callout note %}}
