@@ -123,15 +123,15 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Biking
-        description: ''
         percent: 100
-        icon: bike
+        icon: person-simple-walk
+      # - name: Biking
+      #   description: ''
+      #   percent: 100
+      #   icon: bike
       - name: Photography
         description: ''
-        percent: 80
+        percent: 100
         icon: camera
 
 languages:
