@@ -145,7 +145,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Computer Science Graduate Award
-    date: '2023'
+    date: '2023-05-15'
     awarder: The University of Vermont College of Engineering and Mathematical Sciences
 ---
 
