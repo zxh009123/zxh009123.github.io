@@ -24,8 +24,7 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: mailto:xiaohan.zhang@uvm.edu
-    url: 
+  - name: xiaohan.zhang@uvm.edu
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -40,7 +39,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=hnEUxZ4AAAAJ&hl=en
 
-interests:
+Research Interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
