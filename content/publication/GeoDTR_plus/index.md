@@ -35,7 +35,7 @@ abstract: Cross-View Geo-Localization (CVGL) estimates the location of a ground 
 will be available at https://gitlab.com/vail-uvm/geodtr_plus.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Cross-view Image Geo-localization
