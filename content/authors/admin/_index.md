@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiaohan Zhnag
+title: Xiaohan Zhang
 
 # # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
