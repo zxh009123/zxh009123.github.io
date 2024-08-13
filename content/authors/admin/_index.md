@@ -56,8 +56,8 @@ education:
     #   url: 'https://example.com'
   - area: M.Sc. in Computer Engineering
     institution: University of California, Santa Cruz
-    # date_start: 2016-01-01
-    # date_end: 2020-12-31
+    date_start: 2018-09-01
+    date_end: 2020-05-15
     # summary: |
     #   GPA: 3.8/4.0
 
@@ -67,8 +67,8 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.Sc. in Computer Engineering
     institution: Michigan State University
-    # date_start: 2016-01-01
-    # date_end: 2020-12-31
+    date_start: 2013-09-01
+    date_end: 2027-12-15
     # summary: |
     #   GPA: 3.4/4.0
       
