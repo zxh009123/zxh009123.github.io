@@ -24,15 +24,11 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Vermont
-    url: https://www.uvm.edu/
+  - name: xiaohan.zhang@uvm.edu
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:xiaohan.zhang@uvm.edu'
-    label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
