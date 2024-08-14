@@ -11,7 +11,7 @@ publishDate: '2024-08-13T21:41:03.483875Z'
 publication_types:
 - paper-conference
 publication: '*2022 26th International Conference on Pattern Recognition (ICPR)*'
-doi: 10.1109/ICPR56361.2022.9956704
+# doi: 10.1109/ICPR56361.2022.9956704
 abstract: The capability to generate clear and bright images in low light situations
   is crucial for photographers, engineers, and researchers. When it is not possible
   to modify the imaging conditions, an algorithm to enhance images is needed. Traditional

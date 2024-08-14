@@ -12,7 +12,7 @@ publishDate: '2024-08-14T00:34:17.923875Z'
 publication_types:
 - article-journal
 publication: '*Remote Sensing*'
-doi: 10.3390/rs14112575
+# doi: 10.3390/rs14112575
 abstract: Object geo-localization from images is crucial to many applications such
   as land surveying, self-driving, and asset management. Current visual object geo-localization
   algorithms suffer from hardware limitations and impractical assumptions limiting

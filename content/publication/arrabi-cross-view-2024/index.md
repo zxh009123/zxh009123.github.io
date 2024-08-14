@@ -12,7 +12,7 @@ publishDate: '2024-08-13T21:41:03.491006Z'
 publication_types:
 - manuscript
 publication: '*arXiv*'
-doi: 10.48550/arXiv.2408.04224
+# doi: 10.48550/arXiv.2408.04224
 abstract: Aerial imagery analysis is critical for many research fields. However, obtaining
   frequent high-quality aerial images is not always accessible due to its high effort
   and cost requirements. One solution is to use the Ground-to-Aerial (G2A) technique

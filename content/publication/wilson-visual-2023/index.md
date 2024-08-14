@@ -10,7 +10,7 @@ publishDate: '2024-08-13T21:41:03.506410Z'
 publication_types:
 - manuscript
 publication: '*arXiv*'
-doi: 10.48550/arXiv.2112.15202
+# doi: 10.48550/arXiv.2112.15202
 abstract: The concept of geo-localization refers to the process of determining where
   on earth some `entity' is located, typically using Global Positioning System (GPS)
   coordinates. The entity of interest may be an image, sequence of images, a video,

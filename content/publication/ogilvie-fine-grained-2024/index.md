@@ -10,7 +10,7 @@ publishDate: '2024-08-13T21:41:03.498468Z'
 publication_types:
 - article-journal
 publication: '*Sensors*'
-doi: 10.3390/s24072134
+# doi: 10.3390/s24072134
 abstract: Permeable surface mapping, which mainly is the identification of surface
   materials that will percolate, is essential for various environmental and civil
   engineering applications, such as urban planning, stormwater management, and groundwater

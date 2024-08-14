@@ -8,7 +8,7 @@ publishDate: '2024-08-13T21:41:03.476437Z'
 publication_types:
 - paper-conference
 publication: '*2022 26th International Conference on Pattern Recognition (ICPR)*'
-doi: 10.1109/ICPR56361.2022.9956446
+# doi: 10.1109/ICPR56361.2022.9956446
 abstract: For safety purposes, understanding the quality of the lane marks is essential
   for advanced driving technologies and pavement road maintenance. In practice, the
   performance of existing lane detection algorithms [1]–[3] struggles with lane marks

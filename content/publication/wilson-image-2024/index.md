@@ -11,7 +11,7 @@ featured: true
 publication_types:
 - article-journal
 publication: '*International Journal of Computer Vision*'
-doi: 10.1007/s11263-023-01942-3
+# doi: 10.1007/s11263-023-01942-3
 abstract: The concept of geo-localization broadly refers to the process of determining
   an entity’s geographical location, typically in the form of Global Positioning System
   (GPS) coordinates. The entity of interest may be an image, a sequence of images,

@@ -12,7 +12,9 @@ publishDate: '2024-08-13T21:41:03.448450Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
-doi: 10.1609/aaai.v37i3.25457
+
+# doi: 10.1609/aaai.v37i3.25457
+
 abstract: Cross-view geo-localization aims to estimate the location of a query ground
   image by matching it to a reference geo-tagged aerial images database. As an extremely
   challenging task, its difficulties root in the drastic view changes and different
@@ -38,6 +40,7 @@ abstract: Cross-view geo-localization aims to estimate the location of a query g
   benchmarks. Our code can be found at https://gitlab.com/vail-uvm/geodtr.
 tags:
 - 'CV: Applications'
+
 links:
 - name: URL
   url: https://ojs.aaai.org/index.php/AAAI/article/view/25457

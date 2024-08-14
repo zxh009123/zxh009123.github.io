@@ -10,7 +10,7 @@ publication_types:
 - paper-conference
 publication: '*2023 IEEE/CVF Winter Conference on Applications of Computer Vision
   (WACV)*'
-doi: 10.1109/WACV56688.2023.00293
+# doi: 10.1109/WACV56688.2023.00293
 abstract: Cross-view geo-localization aims to estimate the GPS location of a query
   ground-view image by matching it to images from a reference database of geo-tagged
   aerial images. To address this challenging problem, recent approaches use panoramic
