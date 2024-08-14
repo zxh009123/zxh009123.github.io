@@ -31,6 +31,8 @@ abstract: Object geo-localization from images is crucial to many applications su
   that covers a diverse set of roads in widely varying environments to ensure it is
   representative of real-world scenarios. Our dataset will both support future research
   and provide a crucial benchmark for the ﬁeld.
+tags:
+- Object geo-localization
 links:
 - name: URL
   url: https://www.mdpi.com/2072-4292/14/11/2575

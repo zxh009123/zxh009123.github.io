@@ -33,6 +33,9 @@ abstract: Aerial imagery analysis is critical for many research fields. However,
   available.
 tags:
 - Cross-view Image Synthesis
+- Image Synthesis
+- Diffusion Model
+- ControlNet
 links:
 - name: URL
   url: http://arxiv.org/abs/2408.04224

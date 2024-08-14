@@ -38,7 +38,6 @@ abstract: Permeable surface mapping, which mainly is the identification of surfa
   and accuracy of permeable surface mapping while progressing in this field.
 tags:
 - aerial imagery
-- arid environment
 - cross-domain adaptation
 - image segmentation
 - impervious surface mapping

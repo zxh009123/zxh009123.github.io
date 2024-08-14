@@ -24,13 +24,8 @@ abstract: The capability to generate clear and bright images in low light situat
   study for features in our model. Our proposed method is computationally efficient
   and does not require paired training data.
 tags:
-- Generators
-- Image quality
-- Imaging
-- Measurement
-- Supervised learning
-- Training
-- Training data
+- Generative adversarial networks
+- Image Synthesis
 links:
 - name: URL
   url: https://ieeexplore-ieee-org.ezproxy.uvm.edu/abstract/document/9956704

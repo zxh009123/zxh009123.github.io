@@ -39,8 +39,8 @@ abstract: Cross-view geo-localization aims to estimate the location of a query g
   results but also significantly boosts the performance on same-area and cross-area
   benchmarks. Our code can be found at https://gitlab.com/vail-uvm/geodtr.
 tags:
-- 'CV: Applications'
-
+- Cross-View Image Geo-localization
+- Transformer
 links:
 - name: URL
   url: https://ojs.aaai.org/index.php/AAAI/article/view/25457

@@ -26,6 +26,8 @@ abstract: Cross-view geo-localization aims to estimate the GPS location of a que
   along with the corresponding aerial-view images. Extensive experiments and comparisons
   demonstrate the superiority of the proposed approach compared to several competitive
   baselines.
+tags:
+- Cross-View Image Geo-localization
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/10031017/

@@ -29,7 +29,8 @@ abstract: Cross-View Geo-Localization (CVGL) estimates the location of a ground 
   same-area performance comparable to existing SOTA. Moreover, we provide detailed
   analyses of GeoDTR+.
 tags:
-- Computer Science - Computer Vision and Pattern Recognition
+- Cross-View Image Geo-localization
+- Transformer
 links:
 - name: URL
   url: http://arxiv.org/abs/2308.09624

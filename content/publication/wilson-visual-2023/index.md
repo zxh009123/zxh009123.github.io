@@ -26,7 +26,11 @@ abstract: The concept of geo-localization refers to the process of determining w
   including a summary of popular algorithms, a description of proposed datasets, and
   an analysis of performance results to illustrate the current state of each field.
 tags:
-- Computer Science - Computer Vision and Pattern Recognition
+- Cross-View Image Geo-localization
+- Same-View Image Geo-localization
+- Visual Geo-localization
+- Object geo-localization
+- Survey
 links:
 - name: URL
   url: http://arxiv.org/abs/2112.15202

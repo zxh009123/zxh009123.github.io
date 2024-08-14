@@ -28,12 +28,11 @@ abstract: The concept of geo-localization broadly refers to the process of deter
   of popular algorithms, a description of proposed datasets, and an analysis of performance
   results to illustrate the current state of the field.
 tags:
-- Artificial Intelligence
-- Cross-view geo-localization
-- Deep learning
-- Geo-localization
-- Image geo-localization
+- Cross-View Image Geo-localization
+- Same-View Image Geo-localization
+- Visual Geo-localization
 - Object geo-localization
+- Survey
 links:
 - name: URL
   url: https://doi.org/10.1007/s11263-023-01942-3

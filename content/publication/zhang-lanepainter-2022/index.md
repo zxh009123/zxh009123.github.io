@@ -26,13 +26,10 @@ abstract: For safety purposes, understanding the quality of the lane marks is es
   Also, pavement maintenance can take benefit from our classification assessment method
   to quickly and accurately locate the regions with low-quality lane marks.
 tags:
-- Benchmark testing
-- Classification algorithms
 - Generative adversarial networks
+- Image Synthesis
 - Lane detection
-- Maintenance engineering
-- Roads
-- Safety
+- Lane marks quality estimation
 links:
 - name: URL
   url: https://ieeexplore-ieee-org.ezproxy.uvm.edu/abstract/document/9956446
