@@ -9,8 +9,9 @@ authors:
 date: '2023-06-01'
 publishDate: '2024-08-13T21:41:03.448450Z'
 publication_types:
+featured: true
 - article-journal
-publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
+publication: '*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*'
 doi: 10.1609/aaai.v37i3.25457
 abstract: Cross-view geo-localization aims to estimate the location of a query ground
   image by matching it to a reference geo-tagged aerial images database. As an extremely
