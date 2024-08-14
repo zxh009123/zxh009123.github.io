@@ -29,4 +29,13 @@ abstract: Cross-view geo-localization aims to estimate the GPS location of a que
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/10031017/
+
+url_pdf: 'https://arxiv.org/pdf/2210.14295'
+url_code: 'https://gitlab.com/vail-uvm/seqgeo'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---

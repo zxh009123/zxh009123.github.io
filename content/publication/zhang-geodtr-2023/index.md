@@ -33,4 +33,13 @@ tags:
 links:
 - name: URL
   url: http://arxiv.org/abs/2308.09624
+
+url_pdf: 'https://arxiv.org/pdf/2308.09624'
+url_code: 'https://gitlab.com/vail-uvm/geodtr_plus'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
