@@ -3,7 +3,7 @@ title: Low-light Image Enhancement Using Chain-consistent Adversarial Networks
 authors:
 - Minghao Liu
 - Jiahao Luo
-- Xiaohan Zhang
+- admin
 - Yang Liu
 - James Davis
 date: '2022-08-01'

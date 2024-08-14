@@ -1,7 +1,7 @@
 ---
 title: 'GeoDTR+: Toward generic cross-view geolocalization via geometric disentanglement'
 authors:
-- Xiaohan Zhang
+- admin
 - Xingyu Li
 - Waqas Sultani
 - Chen Chen

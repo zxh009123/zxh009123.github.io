@@ -1,7 +1,7 @@
 ---
 title: Cross-View Image Sequence Geo-Localization
 authors:
-- Xiaohan Zhang
+- admin
 - Waqas Sultani
 - Safwan Wshah
 date: '2023-01-01'

@@ -2,7 +2,7 @@
 title: 'Visual and Object Geo-localization: A Comprehensive Survey'
 authors:
 - Daniel Wilson
-- Xiaohan Zhang
+- admin
 - Waqas Sultani
 - Safwan Wshah
 date: '2023-10-01'

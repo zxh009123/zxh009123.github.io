@@ -2,7 +2,7 @@
 title: Fine-Grained Permeable Surface Mapping through Parallel U-Net
 authors:
 - Nathaniel Ogilvie
-- Xiaohan Zhang
+- admin
 - Cale Kochenour
 - Safwan Wshah
 date: '2024-01-01'

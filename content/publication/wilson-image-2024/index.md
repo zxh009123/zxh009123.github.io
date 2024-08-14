@@ -2,7 +2,7 @@
 title: Image and Object Geo-Localization
 authors:
 - Daniel Wilson
-- Xiaohan Zhang
+- admin
 - Waqas Sultani
 - Safwan Wshah
 date: '2024-04-01'

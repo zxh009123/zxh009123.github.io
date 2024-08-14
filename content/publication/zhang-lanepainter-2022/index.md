@@ -1,7 +1,7 @@
 ---
 title: 'LanePainter: Lane Marks Enhancement via Generative Adversarial Network'
 authors:
-- Xiaohan Zhang
+- admin
 - Safwan Wshah
 date: '2022-08-01'
 publishDate: '2024-08-13T21:41:03.476437Z'

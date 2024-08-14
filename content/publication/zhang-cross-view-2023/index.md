@@ -1,7 +1,7 @@
 ---
 title: Cross-View Geo-Localization via Learning Disentangled Geometric Layout Correspondence
 authors:
-- Xiaohan Zhang
+- admin
 - Xingyu Li
 - Waqas Sultani
 - Yi Zhou
