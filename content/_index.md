@@ -37,20 +37,20 @@ sections:
       text: |-
         My current research interest lies at the border of computer vision and remote sensing (e.g. visual geo-localization and segmentation/detection in aerial images). I am also interested in image synthesis and 3D reconstruction.
         
-        Please reach out to collaborate! 😃
+        Please [reach out](mailto:xiaohan.zhang@uvm.edu) to collaborate! 😃
     design:
       columns: '1'
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     view: article-grid
-  #     columns: 2
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
