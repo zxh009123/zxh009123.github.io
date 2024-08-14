@@ -3,7 +3,7 @@ title: 'Cross-View Meets Diffusion: Aerial Image Synthesis with Geometry and Tex
   Guidance'
 authors:
 - Ahmad Arrabi
-- Xiaohan Zhang
+- admin
 - Waqas Sultan
 - Chen Chen
 - Safwan Wshah
