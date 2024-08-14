@@ -10,7 +10,7 @@ date: '2023-06-01'
 featured: true
 publishDate: '2024-08-13T21:41:03.448450Z'
 publication_types:
-- article-journal
+- paper-conference
 publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
 doi: 10.1609/aaai.v37i3.25457
 abstract: Cross-view geo-localization aims to estimate the location of a query ground
