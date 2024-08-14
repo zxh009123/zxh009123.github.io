@@ -32,7 +32,7 @@ abstract: Aerial imagery analysis is critical for many research fields. However,
   to further verify the effectiveness of our GPG2A. The code and data will be publicly
   available.
 tags:
-- Computer Science - Computer Vision and Pattern Recognition
+- Cross-view Image Synthesis
 links:
 - name: URL
   url: http://arxiv.org/abs/2408.04224
