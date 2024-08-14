@@ -7,6 +7,7 @@ authors:
 - Safwan Wshah
 date: '2024-04-01'
 publishDate: '2024-08-13T21:41:03.469026Z'
+featured: true
 publication_types:
 - article-journal
 publication: '*International Journal of Computer Vision*'
