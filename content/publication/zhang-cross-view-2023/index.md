@@ -41,12 +41,13 @@ tags:
 links:
 - name: URL
   url: https://ojs.aaai.org/index.php/AAAI/article/view/25457
-  url_pdf: 'https://arxiv.org/pdf/2212.04074'
-  url_code: 'https://gitlab.com/vail-uvm/geodtr'
-  url_dataset: ''
-  url_poster: ''
-  url_project: ''
-  url_slides: ''
-  url_source: ''
-  url_video: ''
+
+url_pdf: 'https://arxiv.org/pdf/2212.04074'
+url_code: 'https://gitlab.com/vail-uvm/geodtr'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
