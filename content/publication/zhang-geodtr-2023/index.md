@@ -9,8 +9,8 @@ authors:
 date: '2023-08-01'
 publishDate: '2024-08-13T21:41:03.437790Z'
 publication_types:
-- manuscript
-publication: '*arXiv*'
+- article-journal
+publication: '*IEEE Transactions on Pattern Analysis and Machine Intelligence*'
 abstract: Cross-View Geo-Localization (CVGL) estimates the location of a ground image
   by matching it to a geo-tagged aerial image in a database. Recent works achieve
   outstanding progress on CVGL benchmarks. However, existing methods still suffer
