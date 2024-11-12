@@ -11,7 +11,8 @@ date: '2024-08-01'
 publishDate: '2024-08-13T21:41:03.491006Z'
 publication_types:
 - manuscript
-publication: '*arXiv*'
+publication: '*2025 IEEE/CVF Winter Conference on Applications of Computer Vision
+  (WACV)*'
 # doi: 10.48550/arXiv.2408.04224
 abstract: Aerial imagery analysis is critical for many research fields. However, obtaining
   frequent high-quality aerial images is not always accessible due to its high effort
