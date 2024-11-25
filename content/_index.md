@@ -40,6 +40,15 @@ sections:
         Please reach out to collaborate! 😃
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: '📰 News'
+      subtitle: ''
+      text: |-
+        - My co-authored paper [GPG2A](https://arxiv.org/abs/2408.04224) has been accepted to WACV 2025. Check our [project website](https://ahmadarrabi.github.io/GPG2A_web/) for more details.
+        - Our [GeoDTR+](https://arxiv.org/abs/2308.09624) has been accepted by TPAMI. Code and weights can be found at the [project Github](https://github.com/zxh009123/GeoDTR_plus).
+    design:
+      columns: '1'
   - block: collection
     id: papers
     content:
