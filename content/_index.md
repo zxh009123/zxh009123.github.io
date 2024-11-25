@@ -30,23 +30,27 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        My current research interest lies at the border of computer vision and remote sensing (e.g. visual geo-localization and segmentation/detection in aerial images). I am also interested in image synthesis and 3D reconstruction.
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       My current research interest lies at the border of computer vision and remote sensing (e.g. visual geo-localization and segmentation/detection in aerial images). I am also interested in image synthesis and 3D reconstruction.
         
-        Please reach out to collaborate! 😃
-    design:
-      columns: '1'
+  #       Please reach out to collaborate! 😃
+  #   design:
+  #     columns: '1'
   - block: markdown
     content:
       title: '📰 News'
       subtitle: ''
       text: |-
         <ul>
-        <li><p>My co-authored paper <a href="https://arxiv.org/abs/2408.04224">GPG2A</a> has been accepted to WACV 2025. Please check the <a href="https://ahmadarrabi.github.io/GPG2A_web/">project webpage</a> for more details.</p> </li>
+        <li><p>[2025.11] I will serve as reviewer in CVPR 2025.</p></li>
+        <li><p>[2025.11] I will co-organize Cross-view Geo-localization: Current Challenges and Future Frontiers with GenAI tutorial in WACV 2025. Refer to the <a href="https://zxh009123.github.io/WACV25_CVGL_Tutorial/">project website</a> for more details. See you in Tucson!</p></li>
+        <li><p>[2025.10] My co-authored paper <a href="https://arxiv.org/abs/2408.04224">GPG2A</a> has been accepted to WACV 2025. Please check the <a href="https://ahmadarrabi.github.io/GPG2A_web/">project webpage</a> for more details.</p></li>
+        <li><p>[2025.9] My paper <a href="https://arxiv.org/abs/2308.09624">GeoDTR+</a> has been accepted by IEEE TPAMI. The code and weights has been open-sourced on the <a href="https://github.com/zxh009123/GeoDTR_plus">Github</a> page.</p></li>
+        <li><p>[2025.8] I will serve as reviewer in AAAI 2025.</p></li>
         </ul>
     design:
       columns: '1'
