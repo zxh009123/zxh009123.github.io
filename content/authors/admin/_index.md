@@ -39,10 +39,10 @@ profiles:
 interests:
   - Computer Vision
   - Deep Learning
-  - Image Retrieval
-  - Image Synthesis
   - Visual Geo-Localization
+  - Generative AI
   - 3D Reconstruction
+  - Information Retrieval
 
 education:
   - area: Ph.D. in Computer Science
