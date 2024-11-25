@@ -155,6 +155,6 @@ awards:
 
 ## About Me
 
-I am a fourth-year Ph.D. student at the University of Vermont advised by Dr. [Safwan Wshah](https://www.wshahaigroup.com/). Before joining the University of Vermont, I received my M.Sc. degree at the University of California, Santa Cruz in 2020, and I obtained my B.Sc. degree at Michigan State University in 2017.
+🎯 I am a fourth-year Ph.D. student at the University of Vermont advised by Dr. [Safwan Wshah](https://www.wshahaigroup.com/). Before joining the University of Vermont, I received my M.Sc. degree at the University of California, Santa Cruz in 2020, and I obtained my B.Sc. degree at Michigan State University in 2017.
 
 📚 My current research interest lies at the border of computer vision and remote sensing (e.g. visual geo-localization and segmentation/detection in aerial images). I am also interested in image synthesis and 3D reconstruction. Please reach out to collaborate! 😃
