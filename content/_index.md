@@ -45,8 +45,9 @@ sections:
       title: '📰 News'
       subtitle: ''
       text: |-
-        - My co-authored paper [GPG2A](https://arxiv.org/abs/2408.04224) has been accepted to WACV 2025. Check our [project website](https://ahmadarrabi.github.io/GPG2A_web/) for more details.
-        - Our [GeoDTR+](https://arxiv.org/abs/2308.09624) has been accepted by TPAMI. Code and weights can be found at the [project Github](https://github.com/zxh009123/GeoDTR_plus).
+        <ul>
+        <li><p>My co-authored paper <a href="https://arxiv.org/abs/2408.04224">GPG2A</a> has been accepted to WACV 2025. Please check the <a href="https://ahmadarrabi.github.io/GPG2A_web/">project webpage</a> for more details.</p> </li>
+        </ul>
     design:
       columns: '1'
   - block: collection
