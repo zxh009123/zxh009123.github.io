@@ -145,9 +145,15 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Outstanding Reviewer
+    date: '2024-08-10'
+    awarder: 'ACM Multimedia 2024 2nd Workshop on UAVs in Multimedia: Capturing the World from a New Perspective'
   - title: Computer Science Graduate Award
     date: '2023-05-15'
     awarder: The University of Vermont College of Engineering and Mathematical Sciences
+  - title: AAAI Student Scholarship
+    date: '2023-02-15'
+    awarder: Association for the Advancement of Artificial Intelligence
   - title: Second Prize in UVM Computing Student Research Day
     date: '2022-09-07'
     awarder: UVM CSRD ’22
