@@ -46,13 +46,14 @@ sections:
       subtitle: ''
       text: |-
         <ul>
+        <li><p>[2025.05] I will serve as a PC member in ECAI 2025.</p></li>
         <li><p>[2025.02] I will serve as a reviewer in ICCV 2025.</p></li>
         <li><p>[2024.12] My research has been selected in WACV 2025 Doctoral Consortium. Thanks WACV!</p></li>
         <li><p>[2024.11] I will serve as a reviewer in CVPR 2025.</p></li>
         <li><p>[2024.11] I will co-organize <b>Cross-view Geo-localization: Current Challenges and Future Frontiers with GenAI</b> tutorial in <a href="https://wacv2025.thecvf.com/">WACV 2025</a>. Refer to our <a href="https://zxh009123.github.io/WACV25_CVGL_Tutorial/">tutorial website</a> for more details. See you in Tucson!</p></li>
         <li><p>[2024.10] My co-authored paper <a href="https://arxiv.org/abs/2408.04224">GPG2A</a> has been accepted to WACV 2025. Please check the <a href="https://ahmadarrabi.github.io/GPG2A_web/">project webpage</a> for more details.</p></li>
         <li><p>[2024.9] My paper <a href="https://arxiv.org/abs/2308.09624">GeoDTR+</a> has been accepted by IEEE TPAMI. The code and weights have been open-sourced on the <a href="https://github.com/zxh009123/GeoDTR_plus">GitHub</a> page.</p></li>
-        <li><p>[2024.8] I will serve as a reviewer in AAAI 2025.</p></li>
+        <li><p>[2024.8] I will serve as a PC member in AAAI 2025.</p></li>
         </ul>
     design:
       columns: '1'
