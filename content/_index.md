@@ -46,6 +46,8 @@ sections:
       subtitle: ''
       text: |-
         <ul>
+        <li><p>[2024.10] My co-authored paper <a href="https://arxiv.org/abs/2507.04107">VICI</a> has been accepted to ACMMM 2025 Workshop UAVs in Multimedia. Please check the <a href="https://github.com/tavisshore/VICI/tree/main/src">project webpage</a> for more details.</p></li>
+        <li><p>[2025.07] I will serve as a PC member in AAAI 2026.</p></li>
         <li><p>[2025.05] I will serve as a PC member in ECAI 2025.</p></li>
         <li><p>[2025.02] I will serve as a reviewer in ICCV 2025.</p></li>
         <li><p>[2024.12] My research has been selected in WACV 2025 Doctoral Consortium. Thanks WACV!</p></li>
