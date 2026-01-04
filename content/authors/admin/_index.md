@@ -146,7 +146,16 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Outstanding Reviewer
-    date: '2024-08-10'
+    date: '2025-10-11'
+    awarder: 'ACM Multimedia 2025 3rd Workshop on UAVs in Multimedia: Capturing the World from a New Perspective'
+  - title: Outstanding Reviewer
+    date: '2025-06-11'
+    awarder: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
+  - title: Doctoral Consortium Travel Award
+    date: '2025-03-11'
+    awarder: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)'
+  - title: Outstanding Reviewer
+    date: '2024-10-10'
     awarder: 'ACM Multimedia 2024 2nd Workshop on UAVs in Multimedia: Capturing the World from a New Perspective'
   - title: Computer Science Graduate Award
     date: '2023-05-15'
