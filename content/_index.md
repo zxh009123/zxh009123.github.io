@@ -46,7 +46,7 @@ sections:
       subtitle: ''
       text: |-
         <ul>
-        <li><p>[2025.12] Our Tutorial <b>Beyond Vision: Multimodal Perspectives for Cross-View Geo-Localization</b> has been selected to <a href="https://wacv.thecvf.com/Conferences/2026/Dates">WACV 2026</a>. The Tutorial website will come soon. See you in Tucson!</p></li>
+        <li><p>[2025.12] Our Tutorial <b>Beyond Vision: Multimodal Perspectives for Cross-View Geo-Localization</b> has been selected to <a href="https://wacv.thecvf.com/Conferences/2026/Dates">WACV 2026</a>. Please refer to our <a href="https://zxh009123.github.io/WACV26_CVGL_Tutorial/">tutorial website</a> for more details. See you in Tucson!</p></li>
         <li><p>[2025.09] I recieved $1000 Google Cloud Research Credits. Thanks Google for supporting my research!</p></li>
         <li><p>[2025.07] My co-authored paper <a href="https://arxiv.org/abs/2507.04107">VICI</a> has been accepted to ACMMM 2025 Workshop UAVs in Multimedia. Please check the <a href="https://github.com/tavisshore/VICI/tree/main">project webpage</a> for more details.</p></li>
         <li><p>[2025.07] I will serve as a PC member in AAAI 2026.</p></li>
