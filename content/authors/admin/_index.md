@@ -172,6 +172,7 @@ awards:
 ## About Me
 
 🎯 I am an incoming Postdoctoral Researcher at Purdue University working with Dr. [Jianing Li](https://www.mcmp.purdue.edu/faculty/li4578), having recently completed my Ph.D. in Computer Science at the University of Vermont under the supervision of Dr. [Safwan Wshah](https://www.wshahaigroup.com/). My academic background also includes an M.Sc. from UC Santa Cruz (2020) and a B.Sc. from Michigan State University (2017).
+
 📚 My current research at Purdue centers on AI for drug discovery, including ongoing work in sequence generation and de novo antimicrobial peptide design. Alongside this focus, I remain deeply engaged with generative modeling and computer vision, specifically exploring diffusion models, diffusion Large Language Models (dLLMs), visual geo-localization, and remote sensing. Always open to new collaborations! Please feel free to reach out! 😃
 
 <!-- 🎯 I am a fifth-year Ph.D. student at the University of Vermont advised by Dr. [Safwan Wshah](https://www.wshahaigroup.com/). Before joining the University of Vermont, I received my M.Sc. degree at the University of California, Santa Cruz in 2020, and I obtained my B.Sc. degree at Michigan State University in 2017.
