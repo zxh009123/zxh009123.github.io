@@ -37,11 +37,11 @@ profiles:
     url: https://scholar.google.com/citations?user=hnEUxZ4AAAAJ&hl=en
 
 interests:
-  - Computer Vision
-  - Deep Learning
-  - Visual Geo-Localization
   - Generative AI
+  - Computer-Aided Drug Design
+  - Visual Geo-Localization
   - 3D Reconstruction
+  - Remote Sensing
   - Information Retrieval
 
 education:
