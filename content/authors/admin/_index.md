@@ -34,8 +34,8 @@ profiles:
     url: https://scholar.google.com/citations?user=hnEUxZ4AAAAJ&hl=en
   - icon: brands/github
     url: https://github.com/zxh009123
-  - icon: envelope
-    url: mailto:xiaohan.zhang.research@gmail.com
+  # - icon: envelope
+  #   url: mailto:xiaohan.zhang.research@gmail.com
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/xiaohanzhang-1130/
 
