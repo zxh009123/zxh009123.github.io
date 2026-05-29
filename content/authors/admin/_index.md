@@ -24,8 +24,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Purdue University
-  - url: https://purdue.edu/
+  - name: Purdue University // xiaohan.zhang.research@gmail.com
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
