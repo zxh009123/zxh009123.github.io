@@ -24,7 +24,5 @@ tags:
 - Remote Sensing
 - Forecasting
 links:
-- name: URL
-  url: 
-url_pdf: 'https://arxiv.org/pdf/2408.04224'
+url_pdf: 'https://arxiv.org/pdf/2512.06598'
 ---
