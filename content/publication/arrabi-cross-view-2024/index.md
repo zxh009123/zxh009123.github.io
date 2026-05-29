@@ -41,7 +41,7 @@ links:
 - name: Website
   url: https://ahmadarrabi.github.io/GPG2A_web/
 
-url_pdf: 'http://arxiv.org/abs/2408.04224'
+url_pdf: 'https://arxiv.org/pdf/2408.04224'
 url_code: 'https://github.com/AhmadArrabi/GPG2A'
 url_dataset: ''
 url_poster: ''
