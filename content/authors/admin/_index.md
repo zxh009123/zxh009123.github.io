@@ -35,7 +35,7 @@ profiles:
     url: https://www.linkedin.com/in/xiaohanzhang-1130/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=hnEUxZ4AAAAJ&hl=en
-  - icon: brands/gmail
+  - icon: brands/maildotru
     url: mailto:xiaohan.zhang.research@gmail.com
 
 interests:
