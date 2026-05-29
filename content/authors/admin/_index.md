@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoc @ Purdue University
+role: Postdoc at Purdue University
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -50,8 +50,8 @@ interests:
 education:
   - area: Ph.D. in Computer Science
     institution: University of Vermont
-    # date_start: 2020-09-01
-    # date_end: 2020-12-31
+    date_start: 2020-09-01
+    date_end: 2026-05-15
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -176,4 +176,4 @@ awards:
 
 🎯 I am an incoming Postdoctoral Researcher at Purdue University working with Dr. [Jianing Li](https://www.mcmp.purdue.edu/faculty/li4578). I earned my Ph.D. in Computer Science from the University of Vermont under the supervision of Dr. [Safwan Wshah](https://www.wshahaigroup.com/) in 2026. Prior to my Ph.D., I received an M.Sc. from the University of California, Santa Cruz in 2020, and a B.Sc. from Michigan State University in 2017.
 
-📚 My current research focuses on the intersection of artificial intelligence and drug discovery, with a specific emphasis on de novo antimicrobial peptide design. In parallel, I maintain a strong research interest in computer vision and generative models. This includes the exploration of visual geo-localization, diffusion models, diffusion-based Large Language Models (dLLMs), and remote sensing applications. Always open to new collaborations! Feel free to shoot me an [email](mailto:xiaohan.zhang.research@gmail.com), if you are interested! 😃
+📚 My current research focuses on the intersection of artificial intelligence and drug discovery, with a specific emphasis on de novo antimicrobial peptide design. In parallel, I maintain a strong research interest in computer vision and generative models. This includes the exploration of visual geo-localization, diffusion models, diffusion-based Large Language Models (dLLMs), and remote sensing applications. Always open to new collaborations! Feel free to shoot me an [email](mailto:xiaohan.zhang.research@gmail.com), if you are interested. 😃
