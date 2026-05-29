@@ -44,6 +44,5 @@ tags:
 - permeable surface mapping
 - U-Net
 links:
-- name: URL
-  url: https://www.mdpi.com/1424-8220/24/7/2134
+url_pdf: 'https://www.mdpi.com/1424-8220/24/7/2134'
 ---

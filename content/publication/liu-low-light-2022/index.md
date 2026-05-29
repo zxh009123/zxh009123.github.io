@@ -27,6 +27,5 @@ tags:
 - Generative adversarial networks
 - Image Synthesis
 links:
-- name: URL
-  url: https://ieeexplore-ieee-org.ezproxy.uvm.edu/abstract/document/9956704
+url_pdf: 'https://ieeexplore.ieee.org/document/9956704'
 ---
