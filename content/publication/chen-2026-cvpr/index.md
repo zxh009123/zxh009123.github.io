@@ -3,7 +3,7 @@ title: 'Turning Generators into Retrievers: Unlocking MLLMs for Natural Language
   Geo-Localization'
 authors:
 - Yuqi Chen
-- Xiaohan Zhang
+- admin
 - Ahmad Arrabi
 - Waqas Sultani
 - Chen Chen

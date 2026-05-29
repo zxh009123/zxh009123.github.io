@@ -2,7 +2,7 @@
 title: 'Geo2: Geometry-Guided Cross-view Geo-Localization and Image Synthesis'
 authors:
 - Yancheng Zhang
-- Xiaohan Zhang
+- admin
 - Guangyu Sun
 - Zonglin Lyu
 - Safwan Wshah
