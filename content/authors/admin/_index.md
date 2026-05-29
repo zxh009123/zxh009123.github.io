@@ -29,16 +29,16 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/github
-    url: https://github.com/zxh009123
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/xiaohanzhang-1130/
-  - icon: envelope
-    url: mailto:xiaohan.zhang.research@gmail.com
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=hnEUxZ4AAAAJ&hl=en
   - icon: academicons/cv
     url: uploads/resume.pdf
+  - icon: brands/github
+    url: https://github.com/zxh009123
+  - icon: envelope
+    url: mailto:xiaohan.zhang.research@gmail.com
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/xiaohanzhang-1130/
 
 interests:
   - Generative AI
