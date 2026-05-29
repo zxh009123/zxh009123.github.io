@@ -33,10 +33,10 @@ profiles:
     url: https://github.com/zxh009123
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/xiaohanzhang-1130/
+  - icon: hero/envelope
+    url: mailto:xiaohan.zhang.research@gmail.com
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=hnEUxZ4AAAAJ&hl=en
-  - icon: brands/maildotru
-    url: mailto:xiaohan.zhang.research@gmail.com
 
 interests:
   - Generative AI
