@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Incoming Post-doc Researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -35,7 +35,7 @@ profiles:
     url: https://www.linkedin.com/in/xiaohanzhang-1130/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=hnEUxZ4AAAAJ&hl=en
-  - icon: solid/envelope
+  - icon: hero/envelope
     url: mailto:xiaohan.zhang.research@gmail.com
 
 interests:
