@@ -46,6 +46,7 @@ sections:
       subtitle: ''
       text: |-
         <ul>
+        <li><p>[2026.05] I will join Purdue University as Post-doc Research Associate. My research will focus on AI for de novo drug discovery.</p></li>
         <li><p>[2026.02] 3 papers accepted to CVPR 2026, including 2 main track papers and 1 finding.</p></li>
         <li><p>[2025.12] Our Tutorial <b>Beyond Vision: Multimodal Perspectives for Cross-View Geo-Localization</b> has been selected to <a href="https://wacv.thecvf.com/Conferences/2026/Dates">WACV 2026</a>. Please refer to our <a href="https://zxh009123.github.io/WACV26_CVGL_Tutorial/">tutorial website</a> for more details. See you in Tucson!</p></li>
         <li><p>[2025.09] I recieved $1000 Google Cloud Research Credits. Thanks Google for supporting my research!</p></li>
@@ -60,17 +61,17 @@ sections:
         </ul>
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: 🌟 Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection # Turn off Featured Publications
+  #   id: papers
+  #   content:
+  #     title: 🌟 Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   - block: collection
     content:
       title: 🚀 Recent Publications

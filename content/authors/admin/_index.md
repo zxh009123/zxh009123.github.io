@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: Incoming Post-doc Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -171,6 +171,6 @@ awards:
 
 ## About Me
 
-🎯 I am an incoming Postdoctoral Researcher at Purdue University working with Dr. [Jianing Li](https://www.mcmp.purdue.edu/faculty/li4578), having recently completed my Ph.D. in Computer Science at the University of Vermont under the supervision of Dr. [Safwan Wshah](https://www.wshahaigroup.com/). My academic background also includes an M.Sc. from UC Santa Cruz (2020) and a B.Sc. from Michigan State University (2017).
+🎯 I am an incoming Postdoctoral Researcher at Purdue University working with Dr. [Jianing Li](https://www.mcmp.purdue.edu/faculty/li4578). I earned my Ph.D. in Computer Science from the University of Vermont under the supervision of Dr. [Safwan Wshah](https://www.wshahaigroup.com/) in 2026. Prior to my Ph.D., I received an M.Sc. from the University of California, Santa Cruz in 2020, and a B.Sc. from Michigan State University in 2017.
 
-📚 My current research centers on AI for drug discovery, including de novo antimicrobial peptide design. Alongside this focus, I remain deeply engaged with generative modeling and computer vision, specifically exploring diffusion models, diffusion Large Language Models (dLLMs), visual geo-localization, and remote sensing. Always open to new collaborations! Please feel free to reach out! 😃
+📚 My current research focuses on the intersection of artificial intelligence and drug discovery, with a specific emphasis on de novo antimicrobial peptide design. In parallel, I maintain a strong research interest in computer vision and generative architectures. This includes the exploration of diffusion models, diffusion-based Large Language Models (dLLMs), visual geo-localization, and remote sensing applications. Always open to new collaborations! Feel free to shoot me an [email](xiaohan.zhang.research@gmail.com), if you are interested! 😃
