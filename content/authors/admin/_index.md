@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Postdoc @ Purdue University
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Purdue University <br /> xiaohan.zhang.research@gmail.com
+  - name: xiaohan.zhang.research@gmail.com
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
