@@ -24,7 +24,7 @@ role: Incoming Post-doc Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: [xiaohan.zhang.research@gmail.com](mailto:xiaohan.zhang.research@gmail.com)
+  - name: Purdue University
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -35,6 +35,8 @@ profiles:
     url: https://www.linkedin.com/in/xiaohanzhang-1130/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=hnEUxZ4AAAAJ&hl=en
+  - icon: solid/envelope
+    url: mailto:xiaohan.zhang.research@gmail.com
 
 interests:
   - Generative AI
