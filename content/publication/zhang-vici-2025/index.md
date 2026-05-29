@@ -18,8 +18,8 @@ tags:
 - Cross-View Image Geo-localization
 - Large Vision-Language Model
 links:
-- name: URL
-  url: https://arxiv.org/pdf/2507.04107
+- name: Website
+  url: https://dl.acm.org/doi/abs/10.1145/3728482.3757386
 
 url_pdf: 'https://arxiv.org/pdf/2507.04107'
 url_code: 'https://github.com/tavisshore/VICI'

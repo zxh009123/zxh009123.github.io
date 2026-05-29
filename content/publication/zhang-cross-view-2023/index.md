@@ -42,7 +42,7 @@ tags:
 - Cross-View Image Geo-localization
 - Transformer
 links:
-- name: URL
+- name: Website
   url: https://ojs.aaai.org/index.php/AAAI/article/view/25457
 
 url_pdf: 'https://arxiv.org/pdf/2212.04074'

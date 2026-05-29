@@ -31,9 +31,8 @@ tags:
 - Cross-View Image Geo-localization
 - Same-View Image Geo-localization
 - Visual Geo-localization
-- Object geo-localization
+- Object Geo-localization
 - Survey
 links:
-- name: URL
-  url: https://doi.org/10.1007/s11263-023-01942-3
+url_pdf: 'https://doi.org/10.1007/s11263-023-01942-3'
 ---

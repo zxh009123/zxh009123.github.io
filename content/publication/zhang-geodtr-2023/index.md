@@ -32,8 +32,8 @@ tags:
 - Cross-View Image Geo-localization
 - Transformer
 links:
-- name: URL
-  url: http://arxiv.org/abs/2308.09624
+- name: Website
+  url: https://ieeexplore.ieee.org/document/10636837
 
 url_pdf: 'https://arxiv.org/pdf/2308.09624'
 url_code: 'https://gitlab.com/vail-uvm/geodtr_plus'

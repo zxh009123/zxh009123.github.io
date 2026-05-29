@@ -34,6 +34,5 @@ abstract: Object geo-localization from images is crucial to many applications su
 tags:
 - Object geo-localization
 links:
-- name: URL
-  url: https://www.mdpi.com/2072-4292/14/11/2575
+url_pdf: 'https://www.mdpi.com/2072-4292/14/11/2575'
 ---

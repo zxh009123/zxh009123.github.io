@@ -31,6 +31,5 @@ tags:
 - Lane detection
 - Lane marks quality estimation
 links:
-- name: URL
-  url: https://ieeexplore-ieee-org.ezproxy.uvm.edu/abstract/document/9956446
+url_pdf: 'https://ieeexplore-ieee-org.ezproxy.uvm.edu/abstract/document/9956446'
 ---

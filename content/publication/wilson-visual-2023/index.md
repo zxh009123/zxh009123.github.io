@@ -32,6 +32,5 @@ tags:
 - Object geo-localization
 - Survey
 links:
-- name: URL
-  url: http://arxiv.org/abs/2112.15202
+url_pdf: 'http://arxiv.org/abs/2112.15202'
 ---

@@ -29,7 +29,7 @@ abstract: Cross-view geo-localization aims to estimate the GPS location of a que
 tags:
 - Cross-View Image Geo-localization
 links:
-- name: URL
+- name: Website
   url: https://ieeexplore.ieee.org/document/10031017/
 
 url_pdf: 'https://arxiv.org/pdf/2210.14295'
