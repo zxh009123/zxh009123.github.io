@@ -38,14 +38,14 @@ tags:
 - Diffusion Model
 - ControlNet
 links:
-- name: URL
-  url: http://arxiv.org/abs/2408.04224
+- name: Website
+  url: https://ahmadarrabi.github.io/GPG2A_web/
 
 url_pdf: 'http://arxiv.org/abs/2408.04224'
 url_code: 'https://github.com/AhmadArrabi/GPG2A'
 url_dataset: ''
 url_poster: ''
-url_project: 'https://ahmadarrabi.github.io/GPG2A_web/'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
