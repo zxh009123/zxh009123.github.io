@@ -37,6 +37,8 @@ profiles:
     url: mailto:xiaohan.zhang.research@gmail.com
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=hnEUxZ4AAAAJ&hl=en
+  - icon: academicons/cv
+    url: uploads/resume.pdf
 
 interests:
   - Generative AI
