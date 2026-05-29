@@ -29,10 +29,10 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=hnEUxZ4AAAAJ&hl=en
   - icon: academicons/cv
     url: uploads/resume.pdf
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=hnEUxZ4AAAAJ&hl=en
   - icon: brands/github
     url: https://github.com/zxh009123
   - icon: envelope
