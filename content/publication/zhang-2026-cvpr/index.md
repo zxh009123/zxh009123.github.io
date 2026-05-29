@@ -18,6 +18,7 @@ tags:
 - Cross-view Image Geo-localization
 - Cross-view Image Synthesis
 - Flow Matching
+- Diffusion
 - 3D Foundation Model
 links:
 - name: Website
